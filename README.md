@@ -1,0 +1,2 @@
+# Brain-Tumor-Classification-Using-Deep-Learning-Techniques
+This project demonstrates how **deep learning** can be applied to automate brain tumor diagnosis from MRI images.   By leveraging **transfer learning** on pre-trained models (VGG16 and DenseNet121) and integrating them into a **Flask web application**, this system enables fast, accurate, and accessible classification for medical professionals.
